@@ -1,0 +1,13 @@
+{
+  "name": "bukureactid-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node . "
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
